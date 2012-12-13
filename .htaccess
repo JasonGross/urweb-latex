@@ -1,0 +1,7 @@
+ExpiresActive On
+ExpiresDefault "access"
+<Files *.exe>
+  SetHandler fcgid-script
+</Files>
+#AddType text/cache-manifest .manifest
+DirectoryIndex urlatex.exe/main

@@ -1,0 +1,4 @@
+prefix /urlatex/urlatex.exe
+rewrite all Urlatex/*
+
+urlatex
